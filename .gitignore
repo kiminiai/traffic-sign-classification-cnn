@@ -1,0 +1,16 @@
+# Dataset and model outputs
+/data/
+datasets/
+*.zip
+*.h5
+*.keras
+*.ckpt
+*.tflite
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
